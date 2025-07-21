@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 I am a Blockchain And AI Developer
+# Hello! 👋 I am a Blockchain Developer
 <div>
 <br/>
 - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance blockchain, web applications<br/>
