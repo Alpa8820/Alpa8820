@@ -131,11 +131,6 @@
  </tr>
 </table>
 <br><br>
-
-
 </div>
 
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cryptoWizarder&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
 
