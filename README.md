@@ -128,18 +128,18 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  <td align="center">
-     <picture>
+  
+     
+
+ </tr>
+</table>
+<div align="center">
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-  </td>
- </tr>
-</table>
-
- 
-
+</div>
 <br><br>
 </div>
 
