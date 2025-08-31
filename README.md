@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tool:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
